@@ -1,5 +1,9 @@
 # Load-test-on-D.C-Shunt-Generator
 
+
+Aswin.S(212223210004)
+
+
 Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 Apparatus Required:
@@ -34,10 +38,13 @@ by closing the DPST switch 2.
 7. The motor is switched off by using DPST switch 1 after bringing all the rheostats to
 initial position
 
-Tabular Column:
-<img width="509" height="371" alt="image" src="https://github.com/user-attachments/assets/1641b4c7-3683-4920-b857-5ef394c51cff" />
+<img width="1790" height="1077" alt="Screenshot 2025-11-28 234727" src="https://github.com/user-attachments/assets/e24fb4c4-cb1b-496e-9ace-1f7a847d98a3" />
+
+<img width="1857" height="711" alt="Screenshot 2025-11-28 234816" src="https://github.com/user-attachments/assets/0a84ae69-55a3-45e6-91e5-343585f31fb2" />
 
 Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
 Result:
+
+Thus the of DC shunt generator are analysed and load characteristics are verified. 
